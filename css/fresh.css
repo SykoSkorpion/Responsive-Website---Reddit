@@ -699,7 +699,7 @@ nav ul{
 
 nav ul li a{
     font-size: 16px;
-    float: left;
+    float: right;
 	display: inline-block;
 	margin-right: -2px;
 	position: relative;
